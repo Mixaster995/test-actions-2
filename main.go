@@ -5,4 +5,5 @@ import "github.com/Mixaster995/test-actions"
 func MMMain()  {
 	testactions.Asdf()
 	testactions.Asdf()
+	testactions.Asdf()
 }
