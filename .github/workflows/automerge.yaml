@@ -28,4 +28,4 @@ jobs:
           ENABLED_FOR_MANUAL_CHANGES: true
           GITHUB_TOKEN: ${{ secrets.TEST_SECRET }}
           MAXIMUM_RETRIES: 25
-          COMMIT_MESSAGE: asdfasdf
+          MERGE_METHOD: REBASE
