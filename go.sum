@@ -1,5 +1,5 @@
-github.com/Mixaster995/test-actions v0.0.0-20210728084632-d9bb43edb245 h1:3W5CP2w0FX2jLTh7gt8sGt5b/QwX7XXmBvXcaTBsr+Y=
-github.com/Mixaster995/test-actions v0.0.0-20210728084632-d9bb43edb245/go.mod h1:oEJFEJuf86fxm+L3Fb2fExUNBTZfCimHyX0hUICMEUo=
+github.com/Mixaster995/test-actions v0.0.0-20210730030500-8f52602be75c h1:X43efHJBaGGZ6Wtu4gZ0776B2/WNeccxXBL/6ejNq/o=
+github.com/Mixaster995/test-actions v0.0.0-20210730030500-8f52602be75c/go.mod h1:oEJFEJuf86fxm+L3Fb2fExUNBTZfCimHyX0hUICMEUo=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
